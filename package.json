@@ -1,9 +1,9 @@
 {
   "name": "chukwuebukan-portfolio",
+  "homepage": "https://chukwuebukan.github.io/portfolio/",
   "version": "1.0.1",
   "private": true,
   "description": "Chukwuebuka Nwoba | Senior Software Engineer",
-  "homepage": "https://chukwuebukan.github.io/portfolio/",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
