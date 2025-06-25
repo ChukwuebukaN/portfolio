@@ -3,7 +3,7 @@
   "homepage": "http://ChukwuebukaN.github.io/portfolio",
   "version": "1.0.1",
   "private": "true",
-  "description": "Chukwuebuka Nwoba | Software Engineer",
+  "description": "Chukwuebuka Nwoba | Senior Software Engineer",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
