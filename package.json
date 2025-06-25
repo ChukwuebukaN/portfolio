@@ -1,26 +1,22 @@
 {
-  "name": "simplefolio",
+  "name": "chukwuebukan-portfolio",
+  "homepage": "http://ChukwuebukaN.github.io/portfolio",
   "version": "1.0.1",
   "private": "true",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "description": "Chukwuebuka Nwoba | Software Engineer",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cobiwave/simplefolio"
+    "build": "parcel build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "Jacobo Martinez",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cobiwave/simplefolio/issues"
-  },
-  "homepage": "https://github.com/cobiwave/simplefolio#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
+    "gh-pages": "^6.3.0",
     "parcel": "^2.8.2",
     "prettier": "^2.8.1"
   },
