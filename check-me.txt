@@ -1,0 +1,9 @@
+# To start
+npm start
+
+# To deploy
+npm run build
+
+- then push to main
+- github ci/cd workflow deploy to gh-pages
+- see at https://chukwuebukan.github.io/portfolio/
