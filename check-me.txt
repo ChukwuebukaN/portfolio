@@ -1,7 +1,7 @@
 # To start
 npm start
 
-# To deploy
+# To deploy...
 npm run build
 
 - then push to main
